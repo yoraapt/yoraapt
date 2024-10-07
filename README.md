@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-# Hello! 👋
+# Hello! 🐱‍💻
 
 </div>
 
