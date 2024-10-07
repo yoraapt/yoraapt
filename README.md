@@ -1,5 +1,5 @@
 <!-- Author: Yora -->
-<img align="center" src="./img/teste.png">
+<img align="center" width="300" src="./img/teste.png">
 <p align="center">
   <img src="./img/cat2.gif" alt="cat" width="300">
 </p>
