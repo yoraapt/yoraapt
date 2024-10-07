@@ -1,5 +1,5 @@
 <!-- Author: Yora -->
-<img align="center" height="150"  src="./img/teste.png">
+<img align="center" height="140"  src="./img/teste.png">
 <p align="center">
 </p>
 <div align="center">
