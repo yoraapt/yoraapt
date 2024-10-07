@@ -1,7 +1,11 @@
+
 <!-- Author: Yora -->
-<img align="center" height="140"  src="./img/teste.png">
+<div align="center"
 <p align="center">
+<img align="center" height="140"  src="./img/teste.png">
 </p>
+</div>
+div>
 <div align="center">
 
 # Hello! 👋
