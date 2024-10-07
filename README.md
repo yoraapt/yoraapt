@@ -25,8 +25,8 @@
 
 # Stats 📈
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoraapt&theme=midnight-purple" alt="mystreak"/>
-<img align=center width=294 src="https://github-readme-stats.vercel.app/api/top-langs?username=yoraapt&layout=compact&theme=midnight-purple&custom_title=Top&nbsp;Languages"/><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoraapt&theme=holi" alt="mystreak"/>
+<img align=center width=294 src="https://github-readme-stats.vercel.app/api/top-langs?username=yoraapt&layout=compact&theme=holi&custom_title=Top&nbsp;Languages"/><br>
 <img width=200 src="https://github-readme-stats.vercel.app/api?username=yoraapt&show_icons=true&midnight-purple"/><br>
 <!-- Streak API-->
 
