@@ -2,7 +2,7 @@
 <!-- Author: Yora -->
 <div align="center"
 <p align="center">
-<img align="center" height="150" width="600" src="./img/teste.png">
+<img align="center" height="300" width="1200" src="./img/teste.png">
 </p>
 </div>
 <div align="center">
