@@ -16,7 +16,7 @@
 <img src="./img/test1.gif" align="right" width=200px></img>
 * 💼 
 * 💙 Cyber Security
-* 🌐 <a href="https://spelljinxer.github.io/">spelljinxer.github.io</a>
+* 🌐 
 <br><br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,linux,arch,ubuntu,kali,neovim,vim&perline=8"/>
