@@ -5,7 +5,6 @@
 <img align="center" height="140"  src="./img/teste.png">
 </p>
 </div>
-div>
 <div align="center">
 
 # Hello! 👋
