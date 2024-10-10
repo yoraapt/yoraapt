@@ -6,7 +6,7 @@
 </p>
 </div>
  
-# Status!
+# ・ Status!
 
 <p align="width">
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando
@@ -16,7 +16,7 @@
  <p align="center">
 
  
-# Rede Socias !
+# ・ Rede Socias !
 
 
 
