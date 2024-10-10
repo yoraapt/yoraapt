@@ -2,7 +2,7 @@
 <!-- Author: Yora -->
 <div align="center"
 <p align="center">
-<img align="center" height="180" src="./img/teste.png">
+<img align="center" height="180" src="./img/Makima_spotlight.gif">
 </p>
 </div>
  
