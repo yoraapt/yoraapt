@@ -6,10 +6,10 @@
 </p>
 </div>
 <div align="center">
-
+</div>
 # Stats! 
 
-</div>
+<div alight="width">
 
 <p align="width">
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando 
