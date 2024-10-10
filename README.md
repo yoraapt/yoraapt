@@ -6,7 +6,7 @@
 </p>
 </div>
  
-# Stats! 
+# Status 
 
 <p align="width">
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando 
