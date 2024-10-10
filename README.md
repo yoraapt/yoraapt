@@ -7,7 +7,7 @@
 </div>
 <div align="center">
  
-# Status 
+# Status!
 </div>
 <p align="width">
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando
@@ -18,7 +18,7 @@
 
 <div align="center">
  
-# Rede Socias
+# Rede Socias !
 </div>
 
 
