@@ -5,7 +5,6 @@
 <img align="center" height="180" src="./img/teste.png">
 </p>
 </div>
-<div align="center">
  
 # Stats! 
 
