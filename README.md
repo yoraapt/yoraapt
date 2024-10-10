@@ -12,11 +12,10 @@
 </div>
 
 <p align="width">
-* 🎓 Análise e Desenvolvimento de Sistema - <a href="https://www.estácio.com.br/">ESTÁCIO</a>
+*  Análise e Desenvolvimento de Sistema - <a href="https://www.estácio.br/">ESTÁCIO</a>
 <img src="./img/test1.gif" align="right" width=200px></img> 
 
 *  Estudante de Cyber Security 
-<br><br>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,linux,arch,ubuntu,kali,neovim,vim&perline=8"/>
