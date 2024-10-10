@@ -12,12 +12,12 @@
 </div>
 
 <p align="width">
- .  Análise e Desenvolvimento de Sistema - <a href="https://www.estácio.br/">ESTÁCIO</a>
+ ・  Análise e Desenvolvimento de Sistema - <a href="https://www.estácio.br/">ESTÁCIO</a>
 <img src="./img/test1.gif" align="right" width=299px></img> 
 
- .  Estudante de Cyber Security 
+ ・ Estudante de Cyber Security 
 
- .<img src="./img/linkedin (1).png" width=20x></img> - <a href="linkedin.com/in/fernandogentili/">Linkedin</a>
+ ・<img src="./img/linkedin (1).png" width=20x></img> - <a href="linkedin.com/in/fernandogentili/">Linkedin</a>
 </p>
 <p align="center">
 
