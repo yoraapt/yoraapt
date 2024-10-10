@@ -16,7 +16,6 @@
  
  <p align="center">
 
- <div align="center">
 
 # Rede Socias
 
