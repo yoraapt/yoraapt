@@ -5,9 +5,10 @@
 <img align="center" height="180" src="./img/teste.png">
 </p>
 </div>
+<div align="center">
  
 # Status 
-
+</div>
 <p align="width">
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando
 
