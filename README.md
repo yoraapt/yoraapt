@@ -13,11 +13,11 @@
 
 <p align="width">
  .  Análise e Desenvolvimento de Sistema - <a href="https://www.estácio.br/">ESTÁCIO</a>
-<img src="./img/test1.gif" align="right" width=200px></img> 
+<img src="./img/test1.gif" align="right" width=299px></img> 
 
  .  Estudante de Cyber Security 
 
- .<img src="./img/linkedin (1).png" width=200px></img> - linkedin.com/in/fernandogentili/
+ .<img src="./img/linkedin (1).png" width=50px></img> - linkedin.com/in/fernandogentili/
 </p>
 <p align="center">
 
