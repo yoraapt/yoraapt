@@ -9,7 +9,7 @@
 # Status 
 
 <p align="width">
- ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - <color="green" Cursando> 
+ ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando> 
 
  ・📚 Estudante de Cyber Security 
  
