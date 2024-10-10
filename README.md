@@ -17,7 +17,7 @@
 
  .  Estudante de Cyber Security 
 
- .Linkedin - linkedin.com/in/fernandogentili/
+ .<img src="./img/linkedin (1).png"></img> - linkedin.com/in/fernandogentili/
 </p>
 <p align="center">
 
