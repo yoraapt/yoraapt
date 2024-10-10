@@ -12,10 +12,10 @@
 </div>
 
 <p align="width">
- ・  Faculdade de Análise e Desenvolvimento de Sistema - Cursando 
+ ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando 
 <img src="./img/test1.gif" align="right" width=299px></img> 
 
- ・ Estudante de Cyber Security 
+ ・📚 Estudante de Cyber Security 
 
  ・<img src="./img/linkedin (1).png" width=20x></img> - <a href="linkedin.com/in/fernandogentili/">Linkedin</a>
 </p>
