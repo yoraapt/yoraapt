@@ -27,6 +27,7 @@
 </div>
 
  ・<img src="./img/linkedin (1).png" width=20x></img> - <a href="linkedin.com/in/fernandogentili/">Linkedin</a>
+ ・ <img src=".img/icongooglecloud.png" width=20px></img>
 </p>
 <p align="center">
 
