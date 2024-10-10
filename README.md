@@ -18,7 +18,6 @@
  ・📚 Estudante de Cyber Security 
  
  <p align="center">
- <div align="center">
 
  ・<img src="./img/linkedin (1).png" width=20x></img> - <a href="linkedin.com/in/fernandogentili/">Linkedin</a>
 </p>
