@@ -8,8 +8,6 @@
 <div align="center">
 # Stats! 
 
-<div alight="width">
-
 <p align="width">
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando 
 
