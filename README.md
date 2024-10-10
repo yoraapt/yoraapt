@@ -12,7 +12,7 @@
 </div>
 
 <p align="width">
- ・  Faculdade de Análise e Desenvolvimento de Sistema - Cursando <a href="https://www.estácio.br/">ESTÁCIO</a>
+ ・  Faculdade de Análise e Desenvolvimento de Sistema - Cursando 
 <img src="./img/test1.gif" align="right" width=299px></img> 
 
  ・ Estudante de Cyber Security 
