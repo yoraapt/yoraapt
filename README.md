@@ -6,7 +6,7 @@
 </p>
 </div>
  
-# ・ Status!
+# ・ Status !
 
 <p align="width">
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando
@@ -24,7 +24,8 @@
  ・<img src="./img/icongooglecloud.png" width=19px></img> - <a href="https://www.cloudskillsboost.google/public_profiles/92623248-940f-4ad3-9dbe-14330555309d">Google Cloud Skills</a>
 
 
-# ・Competências
+# ・Competências !
+
 
 </div>
 
