@@ -16,14 +16,12 @@
 <img src="./img/test1.gif" align="right" width=299px></img> 
 
  ・📚 Estudante de Cyber Security 
+ 
+ <div align="center">
 
  ・<img src="./img/linkedin (1).png" width=20x></img> - <a href="linkedin.com/in/fernandogentili/">Linkedin</a>
 </p>
 <p align="center">
-
- 
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,mysql,git,github,linux,arch,ubuntu,kali,neovim,vim&perline=8"/>
-</p>
 
 <div align="center">
 
