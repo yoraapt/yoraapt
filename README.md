@@ -13,8 +13,8 @@
 
 <p align="center">
 * 🎓 Análise e Desenvolvimento de Sistema - <a href="https://www.estácio.com.br/">ESTÁCIO</a>
-<img src="./img/test1.gif" align="right" width=200px></img>
-* 
+<img src="./img/test1.gif" align="right" width=200px></img> 
+</p>
 *  Estudante de Cyber Security 
 <br><br>
 <p align="center">
