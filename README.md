@@ -29,9 +29,6 @@
  ・<img src="./img/linkedin (1).png" width=20x></img> - <a href="linkedin.com/in/fernandogentili/">Linkedin</a>
  ・<img src="./img/icongooglecloud.png" width=20px></img> - <a href="">Google Cloud Skills</a>
 </p>
-<p align="center">
-</div>
-<div align="center">
 
 
 # Stats 
