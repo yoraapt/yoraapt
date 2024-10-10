@@ -8,7 +8,8 @@
 <div align="center">
  
 # Stats! 
-<div aligh="width"
+
+<div aligh="center">
 <p align="width">
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando 
 
@@ -17,7 +18,7 @@
  <p align="center">
 
  <div align="center">
-
+ </div>
 
 # Rede Socias
 
