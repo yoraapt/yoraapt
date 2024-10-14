@@ -7,7 +7,7 @@
     </a>
   </div>
   <div style="flex: 0;">
-    <img src="./img/Makima_spotlight.gif" alt="Makima Spotlight" style="width: 40%; "/>
+    <img src="./img/Makima_spotlight.gif" alt="Makima Spotlight" style="width: 40%;" align="right"/>
   </div>
 </div>
 
