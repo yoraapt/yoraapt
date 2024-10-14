@@ -17,6 +17,7 @@
 </div>
 <div>
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="500" class="vertical-img"/>
+  G
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="500" class="horizontal-img"/>
 </div>
 
