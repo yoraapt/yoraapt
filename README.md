@@ -16,6 +16,6 @@
 
 </div>
 <div>
-  
+  <img src="./img/Design sem nome.svg"/>
 </div>
 
