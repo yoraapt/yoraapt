@@ -16,7 +16,7 @@
 
 </div>
 <div>
- <span style="
+<span style="
 
   display: inline-block;
 
@@ -24,7 +24,7 @@
 
   height: 20px;
 
-  background-color: #333; /* fundo preto mate */
+  background-color: red; /* fundo preto mate */
 
   border: 1px solid rgb(255, 0, 0); /* borda vermelha */
 
