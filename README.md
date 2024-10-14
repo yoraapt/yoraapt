@@ -7,7 +7,7 @@
 </div>
  
 # ・ Status
-<p align="center">
+<p align="width">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando
 
