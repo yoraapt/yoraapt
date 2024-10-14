@@ -16,18 +16,8 @@
 
 </div>
 <div class="container">
-    <div class="text">Aqui estão os meus GIFs!</div>
     
-    <div class="gif-row">
-        <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"/>
-        <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"/>
-    </div>
-    
-    <div class="gif-row">
-        <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"/>
-        <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"/>
-    </div>
-</div>
+   </>
 
 
 
