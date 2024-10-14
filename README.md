@@ -16,25 +16,6 @@
 
 </div>
 <div>
-   <style>
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            width: 500px; /* Largura total do quadrado */
-            height: 500px; /* Altura total do quadrado */
-            border: 2px solid black; /* Borda opcional */
-        }
-        .vertical-img {
-            width: 250px; /* Largura dos GIFs verticais */
-            height: 500px; /* Altura dos GIFs verticais */
-        }
-        .horizontal-img {
-            width: 500px; /* Largura dos GIFs horizontais */
-            height: 250px; /* Altura dos GIFs horizontais */
-        }
-    </style>
-</head>
-<body>
 
 <div class="container">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" class="vertical-img"/>
