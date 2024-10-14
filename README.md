@@ -16,56 +16,24 @@
 
 </div>
 <div>
-  <table>
-  <tr>
-    <td align="center">
-      <a href="https://seulink1.com">
-        <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://seulink1.com">
-        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://seulink1.com">
-        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://seulink2.com">
-        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
-      </a>
-    </td>
-    <td align="center">
-      <strong>MENU</strong> <!-- Este é o conteúdo central -->
-    </td>
-    <td align="center">
-      <a href="https://seulink3.com">
-        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://seulink4.com">
-        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://seulink5.com">
-        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://seulink6.com">
-        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
-      </a>
-    </td>
-  </tr>
-</table>
+ <span style="
+
+  display: inline-block;
+
+  width: 20px;
+
+  height: 20px;
+
+  background-color: #333; /* fundo preto mate */
+
+  border: 1px solid rgb(255, 0, 0); /* borda vermelha */
+
+  border-radius: 5px; /* cantos arredondados */
+
+">
+
+  <img src="seu-gif-rgb.gif" alt="GIF RGB" style="width: 100%; height: 100%; object-fit: cover;">
+
+</span>
 
 </div>
