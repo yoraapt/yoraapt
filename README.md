@@ -1,4 +1,6 @@
+<!DOCTYPE html>
 
+<html>
 <!-- Author: Yora -->
 <div style="display: flex;">
   <a href="https://git.io/typing-svg">
@@ -37,3 +39,4 @@
 
 </span>
 </div>
+</html>
