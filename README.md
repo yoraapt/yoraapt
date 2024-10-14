@@ -10,6 +10,9 @@
 <p align="width">
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+<h3>Status !</h3>
+
  ・🎓 Faculdade de Análise e Desenvolvimento de Sistema - Cursando
 
  ・📚 Estudante de Cyber Security 
