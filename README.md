@@ -4,7 +4,7 @@
 <p align="center">
 <img align="center" height="250" src="./img/Makima_spotlight.gif">
 </p>
-</div>
+
  
 # ・ Status
 <p align="width">
