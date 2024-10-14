@@ -17,24 +17,24 @@
 </div>
 <div>
   
-<span style="
-
-  display: inline-block;
-
-  width: 20px;
-
-  height: 20px;
-
-  background-color: red; /* fundo preto mate */
-
-  border: 1px solid rgb(255, 0, 0); /* borda vermelha */
-
-  border-radius: 5px; /* cantos arredondados */
-
-">
-
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" alt="GIF RGB" style="width: 100%; height: 100%; object-fit: cover;">
-
-</span>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-image: url('https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif');
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+        }
+      </style>
+      <div class="container">
+        <!-- Add your content here -->
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 </div>
 
