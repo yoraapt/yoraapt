@@ -20,7 +20,7 @@
   <tr>
     <td align="center">
       <a href="https://seulink1.com">
-        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
+        <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100px" />
       </a>
     </td>
     <td align="center">
