@@ -32,7 +32,7 @@
 
 ">
 
-  <img src="seu-gif-rgb.gif" alt="GIF RGB" style="width: 100%; height: 100%; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" alt="GIF RGB" style="width: 100%; height: 100%; object-fit: cover;">
 
 </span>
 
