@@ -17,24 +17,5 @@
 </div>
 <div>
   
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-image: url('https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif');
-          background-size: 100% 100%;
-          background-repeat: no-repeat;
-        }
-      </style>
-      <div class="container">
-        <!-- Add your content here -->
-      </div>
-    </div>
-  </foreignObject>
-</svg>
 </div>
 
