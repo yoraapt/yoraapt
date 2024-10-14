@@ -15,5 +15,43 @@
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 </div>
+<div>
+  <table>
+  <tr>
+    <td></td>
+    <td align="center">
+      <a href="https://seulink1.com">
+        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://seulink2.com">
+        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
+      </a>
+    </td>
+    <td align="center">
+      <!-- Conteúdo central do quadrado -->
+      <strong>MENU</strong>
+    </td>
+    <td align="center">
+      <a href="https://seulink3.com">
+        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center">
+      <a href="https://seulink4.com">
+        <img src="https://raw.githubusercontent.com/SEU_REPOSITORIO/caminho/Rainbow.gif" width="100px" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
+</div>
 
