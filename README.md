@@ -26,7 +26,7 @@
 # ・ Rede Socias
 
 
- ・<a href="https://www.linkedin.com/in/fernandogentili/" ><img src="./img/linkedin (1).png" width=19x />/a>  
+ ・<a href="https://www.linkedin.com/in/fernandogentili/" ><img src="./img/linkedin (1).png" width=19x /> </a>
  ・<img src="./img/icongooglecloud.png" width=19px></img>  <a href="https://www.cloudskillsboost.google/public_profiles/92623248-940f-4ad3-9dbe-14330555309d">Google Cloud Skills</a>
 
 
