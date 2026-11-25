@@ -2,14 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0a12,100:c1121f&height=200&section=header&text=Yora%20%E3%83%A8%E3%83%A9&fontSize=64&fontColor=f5f5f5&animation=fadeIn&fontAlignY=36&desc=Linux%20%C2%B7%20Python%20%C2%B7%20QML%20%C2%B7%20Security&descAlignY=58&descSize=18" width="100%" alt="Yora" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=E63946&center=true&vCenter=true&width=560&lines=Desenvolvo+interfaces+para+Linux+com+Quickshell;Crio+assistentes+e+automa%C3%A7%C3%B5es+em+Python;Estudo+seguran%C3%A7a+ofensiva+e+defensiva" alt="Resumo" />
-  </a>
-</div>
-
-<br />
-
 <table>
   <tr>
     <td width="58%" valign="top">
