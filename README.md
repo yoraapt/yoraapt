@@ -1,19 +1,19 @@
-<!-- Author: Yora -->
+<!-- Author: Yora · arte do perfil gerada em assets/ -->
 
-<img src="./img/banner.png" width="100%" alt="Banner" />
+<img src="./assets/header.svg" width="100%" alt="YORA — Linux, Python, QML, Security" />
+
+<img src="./assets/ch1.svg" width="100%" alt="01 · Sobre" />
 
 <table>
   <tr>
     <td width="58%" valign="top">
 
-### 自己紹介 · Sobre
-
 Estudante de tecnologia focado em **Linux, automação e interfaces**. Meu ambiente é **Arch Linux + Hyprland**, e a maior parte do que construo nasce dele: barras, widgets e ferramentas que deixam o desktop mais rápido e mais bonito.
 
-- 🧩 Interfaces em **Quickshell (QML / Qt 6)**, leves o bastante para hardware modesto
-- 🤖 Assistentes e automações em **Python** com modelos de linguagem
-- 🔐 Estudos em **cibersegurança**: reconhecimento, auditoria de rede e red team
-- 🎨 Cuidado com o visual: animação, tipografia e cores consistentes
+- **Interfaces** em Quickshell (QML / Qt 6), leves o bastante para hardware modesto
+- **Assistentes e automações** em Python com modelos de linguagem
+- **Cibersegurança:** reconhecimento, auditoria de rede e red team
+- **Visual** com cuidado: animação, tipografia e cores consistentes
 
     </td>
     <td width="42%" align="center" valign="middle">
@@ -22,44 +22,30 @@ Estudante de tecnologia focado em **Linux, automação e interfaces**. Meu ambie
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+<img src="./assets/ch2.svg" width="100%" alt="02 · Stack" />
 
-### 技術 · Stack
+<img src="./assets/stack.svg" width="100%" alt="Python, QML / Qt 6, Quickshell, Shell, Dart, Arch Linux, Hyprland, Nmap, Git, pywal" />
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=E63946" alt="Python" />
-  <img src="https://img.shields.io/badge/QML_/_Qt_6-0d0d0d?style=for-the-badge&logo=qt&logoColor=E63946" alt="QML / Qt 6" />
-  <img src="https://img.shields.io/badge/Shell-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=E63946" alt="Shell" />
-  <img src="https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=E63946" alt="Dart" />
-  <img src="https://img.shields.io/badge/Arch_Linux-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=E63946" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Hyprland-0d0d0d?style=for-the-badge&logo=hyprland&logoColor=E63946" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logo=gnometerminal&logoColor=E63946" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=E63946" alt="Git" />
+<img src="./assets/ch3.svg" width="100%" alt="03 · Projetos" />
+
+<p align="center">
+  <img src="./assets/p-vex.svg" width="49%" alt="VEX — assistente pessoal com voz (repositório privado)" />
+  <img src="./assets/p-bar.svg" width="49%" alt="Professional Bar — barra animada para Hyprland (repositório privado)" />
+</p>
+<p align="center">
+  <a href="https://github.com/yoraapt/tcc"><img src="./assets/p-obs.svg" width="49%" alt="Observatório Comunitário" /></a>
+  <a href="https://github.com/yoraapt/wallpaperQuickShell"><img src="./assets/p-wall.svg" width="49%" alt="wallpaperQuickShell" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/yoraapt/projeto-clima-python1"><img src="./assets/p-clima.svg" width="49%" alt="projeto-clima" /></a>
+  <a href="https://github.com/yoraapt/dwm"><img src="./assets/p-dwm.svg" width="49%" alt="dwm" /></a>
 </p>
 
-### 作品 · Projetos
+<img src="./assets/ch4.svg" width="100%" alt="04 · Estatísticas" />
 
-#### Em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **VEX** <br><sub>🔒 privado</sub> | Assistente pessoal com voz para Hyprland. Vive numa bola flutuante, conversa em português e age no computador com 27 ferramentas: abre apps, lê e clica na tela, pesquisa, gera relatórios e agenda tarefas. Ativação por voz ("ei vex") 100% offline. | Python · QML · LLM · Vosk |
-| **Professional Bar** <br><sub>🔒 privado</sub> | Barra-pílula animada para Hyprland: começa como um relógio e se transforma no menu aberto (música, Wi-Fi, som, calendário, configurações) com animações de mola. Cores do wallpaper via pywal e leve o bastante para um Atom com 2 GB de RAM. | Quickshell · QML |
-
-#### Públicos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Observatório Comunitário**](https://github.com/yoraapt/tcc) | Sistema para registrar, priorizar e acompanhar demandas de comunidades em projetos de extensão universitária | Python |
-| [**wallpaperQuickShell**](https://github.com/yoraapt/wallpaperQuickShell) | Seletor de wallpapers para Hyprland | Quickshell · QML |
-| [**projeto-clima-python1**](https://github.com/yoraapt/projeto-clima-python1) | Análise de dados climáticos com mapa de calor | Python |
-| [**dwm**](https://github.com/yoraapt/dwm) | Build do dwm com tema e xwallpaper | Shell |
-
-### 統計 · Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yoraapt&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=E63946&icon_color=E63946&text_color=d6d6d6&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoraapt&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=E63946&text_color=d6d6d6&langs_count=6" alt="Linguagens mais usadas" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yoraapt&show_icons=true&hide_border=true&bg_color=111116&title_color=E63946&icon_color=E63946&text_color=c9c5cf&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoraapt&layout=compact&hide_border=true&bg_color=111116&title_color=E63946&text_color=c9c5cf&langs_count=6" alt="Linguagens mais usadas" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:0d0d0d&height=110&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="続く — to be continued" />
