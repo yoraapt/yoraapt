@@ -1,48 +1,73 @@
 <!-- Author: Yora -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=30F727&width=440&lines=Hello%2C+I'm+Yora;Linux+%2B+Hyprland+ricer;Python+%C2%B7+QML+%C2%B7+Shell;Rio+de+Janeiro+%F0%9F%87%A7%F0%9F%87%B7" alt="Hello, I'm Yora" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0a12,100:c1121f&height=200&section=header&text=Yora%20%E3%83%A8%E3%83%A9&fontSize=64&fontColor=f5f5f5&animation=fadeIn&fontAlignY=36&desc=Linux%20%C2%B7%20Python%20%C2%B7%20QML%20%C2%B7%20Security&descAlignY=58&descSize=18" width="100%" alt="Yora" />
 
-<img src="./img/dante.gif" alt="Dante" align="right" width="380" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=E63946&center=true&vCenter=true&width=560&lines=Desenvolvo+interfaces+para+Linux+com+Quickshell;Crio+assistentes+e+automa%C3%A7%C3%B5es+em+Python;Estudo+seguran%C3%A7a+ofensiva+e+defensiva" alt="Resumo" />
+  </a>
+</div>
 
-### Sobre mim
+<br />
 
-- 🎓 Estudante no Rio de Janeiro
-- 🐧 Uso **Arch Linux + Hyprland** e passo tempo demais deixando o desktop bonito
-- 🧩 Faço barras, widgets e wallpapers animados com **Quickshell (QML)**
-- 🐍 Gosto de automatizar tudo em **Python** e **Shell**
-- 🔐 Estudando **cibersegurança** e ferramentas de red team
-- 🛏️ Empresa atual: *a cozy bed*
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
-<br clear="right" />
+### 自己紹介 · Sobre
+
+Estudante de tecnologia focado em **Linux, automação e interfaces**. Meu ambiente é **Arch Linux + Hyprland**, e a maior parte do que construo nasce dele: barras, widgets e ferramentas que deixam o desktop mais rápido e mais bonito.
+
+- 🧩 Interfaces em **Quickshell (QML / Qt 6)**, leves o bastante para hardware modesto
+- 🤖 Assistentes e automações em **Python** com modelos de linguagem
+- 🔐 Estudos em **cibersegurança**: reconhecimento, auditoria de rede e red team
+- 🎨 Cuidado com o visual: animação, tipografia e cores consistentes
+
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="./img/Makima_spotlight.gif" alt="Makima" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-### Ferramentas
+### 技術 · Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/QML_/_Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QML / Qt" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=E63946" alt="Python" />
+  <img src="https://img.shields.io/badge/QML_/_Qt_6-0d0d0d?style=for-the-badge&logo=qt&logoColor=E63946" alt="QML / Qt 6" />
+  <img src="https://img.shields.io/badge/Shell-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=E63946" alt="Shell" />
+  <img src="https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=E63946" alt="Dart" />
+  <img src="https://img.shields.io/badge/Arch_Linux-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=E63946" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Hyprland-0d0d0d?style=for-the-badge&logo=hyprland&logoColor=E63946" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logo=gnometerminal&logoColor=E63946" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=E63946" alt="Git" />
 </p>
 
-### Projetos
+### 作品 · Projetos
 
-| Projeto | O que é |
-|---|---|
-| [**Observatório Comunitário**](https://github.com/yoraapt/tcc) | Sistema em Python para registrar, priorizar e acompanhar demandas de comunidades em projetos de extensão universitária |
-| [**wallpaperQuickShell**](https://github.com/yoraapt/wallpaperQuickShell) | Seletor de wallpapers feito em Quickshell para Hyprland |
-| [**projeto-clima-python1**](https://github.com/yoraapt/projeto-clima-python1) | Análise de dados climáticos com mapa de calor em Python |
-| [**dwm**](https://github.com/yoraapt/dwm) | Meu dwm com tema e xwallpaper |
+#### Em destaque
 
-### Estatísticas
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **VEX** <br><sub>🔒 privado</sub> | Assistente pessoal com voz para Hyprland. Vive numa bola flutuante, conversa em português e age no computador com 27 ferramentas: abre apps, lê e clica na tela, pesquisa, gera relatórios e agenda tarefas. Ativação por voz ("ei vex") 100% offline. | Python · QML · LLM · Vosk |
+| **Professional Bar** <br><sub>🔒 privado</sub> | Barra-pílula animada para Hyprland: começa como um relógio e se transforma no menu aberto (música, Wi-Fi, som, calendário, configurações) com animações de mola. Cores do wallpaper via pywal e leve o bastante para um Atom com 2 GB de RAM. | Quickshell · QML |
+
+#### Públicos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Observatório Comunitário**](https://github.com/yoraapt/tcc) | Sistema para registrar, priorizar e acompanhar demandas de comunidades em projetos de extensão universitária | Python |
+| [**wallpaperQuickShell**](https://github.com/yoraapt/wallpaperQuickShell) | Seletor de wallpapers para Hyprland | Quickshell · QML |
+| [**projeto-clima-python1**](https://github.com/yoraapt/projeto-clima-python1) | Análise de dados climáticos com mapa de calor | Python |
+| [**dwm**](https://github.com/yoraapt/dwm) | Build do dwm com tema e xwallpaper | Shell |
+
+### 統計 · Estatísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yoraapt&show_icons=true&hide_border=true&bg_color=0d1117&title_color=30F727&icon_color=30F727&text_color=c9d1d9&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoraapt&layout=compact&hide_border=true&bg_color=0d1117&title_color=30F727&text_color=c9d1d9&langs_count=6" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yoraapt&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=E63946&icon_color=E63946&text_color=d6d6d6&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoraapt&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=E63946&text_color=d6d6d6&langs_count=6" alt="Linguagens mais usadas" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:0d0d0d&height=110&section=footer" width="100%" alt="" />
