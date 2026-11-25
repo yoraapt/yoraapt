@@ -34,7 +34,6 @@ Estudante de tecnologia focado em **Linux, automação e interfaces**. Meu ambie
 </p>
 <p align="center">
   <a href="https://github.com/yoraapt/tcc"><img src="./assets/p-obs.svg" width="49%" alt="Observatório Comunitário" /></a>
-  <a href="https://github.com/yoraapt/dwm"><img src="./assets/p-dwm.svg" width="49%" alt="dwm" /></a>
 </p>
 
 <img src="./assets/ch4.svg" width="100%" alt="04 · Estatísticas" />
