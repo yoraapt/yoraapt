@@ -37,7 +37,6 @@ Estudante de tecnologia focado em **Linux, automação e interfaces**. Meu ambie
   <a href="https://github.com/yoraapt/wallpaperQuickShell"><img src="./assets/p-wall.svg" width="49%" alt="wallpaperQuickShell" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/yoraapt/projeto-clima-python1"><img src="./assets/p-clima.svg" width="49%" alt="projeto-clima" /></a>
   <a href="https://github.com/yoraapt/dwm"><img src="./assets/p-dwm.svg" width="49%" alt="dwm" /></a>
 </p>
 
