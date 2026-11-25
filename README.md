@@ -1,6 +1,6 @@
 <!-- Author: Yora -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3a0a12,100:c1121f&height=200&section=header&text=Yora%20%E3%83%A8%E3%83%A9&fontSize=64&fontColor=f5f5f5&animation=fadeIn&fontAlignY=36&desc=Linux%20%C2%B7%20Python%20%C2%B7%20QML%20%C2%B7%20Security&descAlignY=58&descSize=18" width="100%" alt="Yora" />
+<img src="./img/banner.png" width="100%" alt="Banner" />
 
 <table>
   <tr>
